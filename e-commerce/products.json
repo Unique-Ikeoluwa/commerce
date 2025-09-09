@@ -1,0 +1,16 @@
+[
+  {
+    "id": "P1",
+    "name": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse with adjustable DPI.",
+    "quantity": 150,
+    "price": 19.99
+  },
+  {
+    "id": "P2",
+    "name": "Mechanical Keyboard",
+    "description": "RGB backlit mechanical keyboard with blue switches.",
+    "quantity": 80,
+    "price": 59.99
+  }
+]
